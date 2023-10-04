@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SyedDev07
+- 👀 I’m interested in enhancing my programming experience and knowledge
+- 🌱 I’m currently learning front end and back end coding my stack is MERN 
+- 📫 How to reach me ashirrohaan@gmail.com
